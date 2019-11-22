@@ -1,5 +1,7 @@
 # Regular Path Query
+
 ## Reading list
+
 ### Anil's Recommendation
 #### Book
 1. [Querying Graphs](https://www.morganclaypool.com/doi/abs/10.2200/S00873ED1V01Y201808DTM051). Angela Bonifati, George Fletcher, Hannes Voigt, Nikolay Yakovets. 2018.
@@ -13,22 +15,20 @@
 7. [Enumeration Problems for Regular Path Queries](https://arxiv.org/abs/1710.02317). Wim Martens, Tina Trautner. 2017
 8. [A Trichotomy for Regular Simple Path Queries on Graphs](https://arxiv.org/abs/1212.6857). Guillaume Bagan et al. 2012.
 
+### My Additional Readings
 #### RPQ
-1. [Expreimental Analysis of Streaming Algorithms for Graph Partitioning](https://dl.acm.org/authorize.cfm?key=N697045), Anil Pacaci et al., 2019
-
-3. [SPARQLeR: Extended Sparql for Semantic Association Discovery](https://link.springer.com/chapter/10.1007/978-3-540-72667-8_12), K.J. Kochut et al., 2007
-5. [The complexity of evaluating path expressions in SPARQL](https://dl.acm.org/citation.cfm?id=2213573), K.Losemann et al., 2012
-6. [Sparqling Kleene: Fast Property Paths in RDF-3X](https://event.cwi.nl/grades/2013/14-gubichev.pdf), A.Gubichev et al., 2013
-#### RDF & SPARQL
-3. [RDF-3X: a RISC-style engine for RDF](https://dl.acm.org/citation.cfm?id=1453927), T.Neumann et al., 2008
-5. [Virtuoso: RDF Support in Native RDBMS](https://link.springer.com/chapter/10.1007/978-3-642-04329-1_21), O.Erling et al., 2010
-6. [Jena: Implementing the Semantic Web Recommendations](https://link.springer.com/chapter/10.1007/978-3-642-04329-1_21), Carroll et al., 2003
-7. [Efficient RDF storage and retrieval in Jena2](https://pdfs.semanticscholar.org/13e8/d482f40a0d452ed3c24811a5a4def8fe6d3f.pdf), K.Wilkinson et al., 2003
-8. [Scalable Semantic Web Data Management Using Vertical Partitioning](http://db.lcs.mit.edu/projects/cstore/abadirdf.pdf), D.Adabi et al., 2007
+9. [Expreimental Analysis of Streaming Algorithms for Graph Partitioning](https://dl.acm.org/authorize.cfm?key=N697045). Anil Pacaci et al. 2019.
+10. [OPTIMIZATION OF REGULAR PATH QUERIES IN GRAPH DATABASES](https://pdfs.semanticscholar.org/e7d9/b7b0d3b5949367b53532c9e40aba4677077c.pdf). Nikolay Yakovets. 2016.
+11. [Sparqling Kleene: Fast Property Paths in RDF-3X](https://event.cwi.nl/grades/2013/14-gubichev.pdf). A.Gubichev et al. 2013.
+12. [The complexity of evaluating path expressions in SPARQL](https://dl.acm.org/citation.cfm?id=2213573) K.Losemann et al. 2012.
+#### RDF
+13. [Virtuoso: RDF Support in Native RDBMS](https://link.springer.com/chapter/10.1007/978-3-642-04329-1_21). O.Erling et al. 2010.
+14. [RDF-3X: a RISC-style engine for RDF](https://dl.acm.org/citation.cfm?id=1453927). T.Neumann et al. 2008.
 #### Cypher
-9. [Cypher: An evolving query language for property graphs](https://dl.acm.org/citation.cfm?id=3190657), Francis et al., 2018
-#### Nicolay's work
-10. 
+15. [Cypher: An evolving query language for property graphs](https://dl.acm.org/citation.cfm?id=3190657). Francis et al. 2018.
+
+[Other Nicolay's Work](https://dblp.org/pers/hd/y/Yakovets:Nikolay)
+ 
 ## TODO
 1. Finish reading list
 2. Toy RPQ model
