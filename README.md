@@ -18,7 +18,7 @@
 ### My Additional Readings
 #### RPQ
 9. [Expreimental Analysis of Streaming Algorithms for Graph Partitioning](https://dl.acm.org/authorize.cfm?key=N697045). Anil Pacaci et al. 2019.
-10. [OPTIMIZATION OF REGULAR PATH QUERIES IN GRAPH DATABASES](https://pdfs.semanticscholar.org/e7d9/b7b0d3b5949367b53532c9e40aba4677077c.pdf). Nikolay Yakovets. 2016.
+10. [Optimization of Regular Path Queries In Graph Databases](https://pdfs.semanticscholar.org/e7d9/b7b0d3b5949367b53532c9e40aba4677077c.pdf). Nikolay Yakovets. 2016.
 11. [Sparqling Kleene: Fast Property Paths in RDF-3X](https://event.cwi.nl/grades/2013/14-gubichev.pdf). A.Gubichev et al. 2013.
 12. [The complexity of evaluating path expressions in SPARQL](https://dl.acm.org/citation.cfm?id=2213573) K.Losemann et al. 2012.
 #### RDF
